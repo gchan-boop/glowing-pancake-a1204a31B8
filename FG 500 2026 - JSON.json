@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "ISRCs":  "USUM72400695",
         "Song Name":  "3:16",
@@ -1224,12 +1224,6 @@
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a057eeba70f2e0083c1b040/original.jpg?1778745067"
     },
     {
-        "ISRCs":  "USGF18502601",
-        "Song Name":  "Boys Of Summer",
-        "Artist":  "Don Henley",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a057eef1679777d4a72f928/original.jpg?1778745071"
-    },
-    {
         "ISRCs":  "NZZD01100469",
         "Song Name":  "Brandy",
         "Artist":  "Bunny Walters",
@@ -1498,12 +1492,6 @@
         "Song Name":  "Can\u0027t Get Enough Of Your Love",
         "Artist":  "Barry White",
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a057f9880fa550081c553bb/original.jpg?1778745239"
-    },
-    {
-        "ISRCs":  "GBAAA9300027",
-        "Song Name":  "Can\u0027t Help Falling In Love",
-        "Artist":  "Ub40",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a057f9be27240b698535831/original.jpg?1778745243"
     },
     {
         "ISRCs":  "USMB51100057",
@@ -2970,12 +2958,6 @@
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a05a09c27ae28007d0d10fb/original.jpg?1778753692"
     },
     {
-        "ISRCs":  "USWB10806965",
-        "Song Name":  "First Cut Is The Deepest",
-        "Artist":  "Rod Stewart",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a05a0a0b4c0f0007d336550/original.jpg?1778753696"
-    },
-    {
         "ISRCs":  "AUU741100130",
         "Song Name":  "Flame Trees",
         "Artist":  "Cold Chisel",
@@ -3984,12 +3966,6 @@
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a06e3f35fb9840085e78995/original.jpg?1778836467"
     },
     {
-        "ISRCs":  "AUSM08900046",
-        "Song Name":  "Horses",
-        "Artist":  "Darryl Braithwaite",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a06e3f7be24fe00855516ad/original.jpg?1778836470"
-    },
-    {
         "ISRCs":  "USCH30100007",
         "Song Name":  "Hot In The City",
         "Artist":  "Billy Idol",
@@ -4338,7 +4314,7 @@
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a07063c5a0bc6007f19b802/original.jpg?1778845243"
     },
     {
-        "ISRCs":  "SEAYD7901030",
+        "ISRCs":  "SEAYD7901031",
         "Song Name":  "I Have A Dream",
         "Artist":  "Abba",
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a07063f74a79f008425d3ac/original.jpg?1778845247"
@@ -5422,12 +5398,6 @@
         "Song Name":  "Lady D\u0027Arbanville",
         "Artist":  "Cat Stevens",
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a079cdba273f1007ef0948d/original.jpg?1778883802"
-    },
-    {
-        "ISRCs":  "GBAAM8600001",
-        "Song Name":  "Lady In Red",
-        "Artist":  "Chris De Burgh",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a079cdef8d6030087542f9f/original.jpg?1778883806"
     },
     {
         "ISRCs":  "USPH37700029",
@@ -6690,12 +6660,6 @@
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a0979ab9cb3545a352867c3/original.jpg?1779005866"
     },
     {
-        "ISRCs":  "USMO18400528",
-        "Song Name":  "Nightshift",
-        "Artist":  "Commodores",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a0979ae418971007f342189/original.jpg?1779005870"
-    },
-    {
         "ISRCs":  "GBAMS8500203",
         "Song Name":  "Nikita",
         "Artist":  "Elton John",
@@ -7242,18 +7206,6 @@
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a08f73d704c4e007f2a60c6/original.jpg?1778972476"
     },
     {
-        "ISRCs":  "CAC229900141",
-        "Song Name":  "Power Of Love",
-        "Artist":  "Celine Dion",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a08f740451065007f0f573a/original.jpg?1778972479"
-    },
-    {
-        "ISRCs":  "USCA20600519",
-        "Song Name":  "Power Of Love",
-        "Artist":  "Huey Lewis And The News",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a08f74445106500830f4851/original.jpg?1778972484"
-    },
-    {
         "ISRCs":  "GBARL1501372",
         "Song Name":  "Praying For Time",
         "Artist":  "George Michael",
@@ -7774,12 +7726,6 @@
         "Song Name":  "Safe And Sound",
         "Artist":  "Capital Cities",
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a08f87f349d29007ffa6284/original.jpg?1778972798"
-    },
-    {
-        "ISRCs":  "GBBLG0200043",
-        "Song Name":  "Safety Dance",
-        "Artist":  "Men Without Hats",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a08f8821b8735007df3843a/original.jpg?1778972802"
     },
     {
         "ISRCs":  "USWB19901344",
@@ -10794,12 +10740,6 @@
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a0955a957de873292f912ab/original.jpg?1778996649"
     },
     {
-        "ISRCs":  "GBUM70909466",
-        "Song Name":  "Wild Horses",
-        "Artist":  "The Rolling Stones",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a0955ad69b34c80538005e1/original.jpg?1778996652"
-    },
-    {
         "ISRCs":  "GB01A0500096",
         "Song Name":  "Wild Wild Life",
         "Artist":  "Talking Heads",
@@ -10882,12 +10822,6 @@
         "Song Name":  "Wonderful Tonight",
         "Artist":  "Eric Clapton",
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a0955df022508008740c701/original.jpg?1778996703"
-    },
-    {
-        "ISRCs":  "USMC16758823",
-        "Song Name":  "Wonderful World",
-        "Artist":  "Louis Armstrong",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a0955e35021bc04ea1c24ea/original.jpg?1778996707"
     },
     {
         "ISRCs":  "BEDO61507381",
@@ -11320,12 +11254,6 @@
         "Song Name":  "You\u0027re My Best Friend",
         "Artist":  "Queen",
         "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a09652908e7c6007d7a412d/original.jpg?1779000617"
-    },
-    {
-        "ISRCs":  "USWB10301261",
-        "Song Name":  "Youre My Inspiration",
-        "Artist":  "Chicago",
-        "Asset_URL":  "https://braze-images.com/appboy/communication/assets/image_assets/images/6a09652d3a97ac007d4042a5/original.jpg?1779000620"
     },
     {
         "ISRCs":  "USIR60900009",
